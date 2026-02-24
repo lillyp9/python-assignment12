@@ -1,0 +1,14 @@
+Reflect on the differences between static and interactive visualizations.
+
+Static visualizations is a fixed repreentation of data that is fixed unless it is edited. It is ideal to use it for reports , presentation that send clear strong message or picture of the data.
+While dynamic visuzalizations is an all interactive tool that allows the user to zoom, filter , and see real-time updating.
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+The advantage to using these dashboards is it is able to show more visibilty then static and the change of data . 
+If business needs to make a decisions right away , the data would be accessible for users to track performance , any other metrics that changes whether it escalates or dropdown. 
+Rather then waiting for a weekly or month to month reports, having such visibilty of all data in that moment is essential and a advantage for any performance or decisions-making in business.
+
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+Having Interactive Tools like Plotly and Dash can improve data communication by being accessibl to the team or individuals from any device with Wifib or internet connection.
+Not only that but you have more control over the design, layout ,and overall trailing the dashboarxto the needs of the business, brand or individual .
+Simply by using Python code. Bottom line both are able to storytell with the data given , instead of just seeing raw data .
